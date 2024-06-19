@@ -22,6 +22,10 @@ future requirements will likely include:
 langchain
 clickhouse database
 neo4j network graph database
+brew install ffmpeg (optional)
+pip3 install elevenlabs (optional)
+
+Note this was developed on a M2 Apple Laptop, so some of the install assumptions may be related to that.
 
 
 Start
