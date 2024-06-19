@@ -1,0 +1,42 @@
+application:
+  name: 'GenOs'
+  defaultHost: 127.0.0.1
+
+llm:
+  maxLLMSize: 9000000001
+  gpt4default: gpt-4o
+  gpt3default: gpt-3.5 Turbo
+
+port:
+  nucleus: 6001
+  routing: 6002
+  analysisInLine: 6003
+  analysisBackground: 6004
+  analysisAdhoc: 6005
+  datastore: 6006
+  health: 6007
+  insights: 6008
+  troubleshoot: 6009
+  optimizaiton: 6010
+  admin: 6011
+  entities: 6012
+  rbac: 6013
+  collection: 6014
+
+host:
+  nucleus: 127.0.0.1
+  routing: 127.0.0.1
+  analysisInLine: 127.0.0.1
+  analysisBackground: 127.0.0.1
+  analysisAdhoc: 127.0.0.1
+  datastore: 127.0.0.1
+  health: 127.0.0.1
+  insights: 127.0.0.1
+  troubleshoot: 127.0.0.1
+  optimizaiton: 127.0.0.1
+  admin: 127.0.0.1
+  entities: 127.0.0.1
+  rbac: 127.0.0.1
+  collection: 127.0.0.1
+
+
